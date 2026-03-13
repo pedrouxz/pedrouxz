@@ -2,7 +2,7 @@
 - Estudante de Desenvolvimento de Sistemas
 - Focado em Python, HTML e CSS
 - Preparando-se para o mercado de tecnologia
-- Contato: pedrox0920@gmail.com
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com) pedrox0920@gmail.com
 
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
